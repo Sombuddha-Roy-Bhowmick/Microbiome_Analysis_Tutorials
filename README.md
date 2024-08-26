@@ -1,5 +1,5 @@
-# Microbiome_Analysis_Tutorials
-Introductory Tutorials For Analysis of Microbiome Data
+# Microbiome Analysis Tutorials
+Introductory Tutorial For Analysis of Microbiome Data
 
 This is a tutorial to analyze microbiome data with R. 
 
